@@ -1,6 +1,6 @@
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
-let PtojectApp = () =>{
+let ProjectApp = () =>{
     return(
         <div className="container mt-3">
          <div className="row">
@@ -60,4 +60,4 @@ let PtojectApp = () =>{
     )
     
 }
-export default PtojectApp
+export default ProjectApp
